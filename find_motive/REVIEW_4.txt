@@ -1,4 +1,1 @@
-find_motive :
-
 Très bien. Vous pouvez utiliser std::endl pour faire vos retour chariot.
-
